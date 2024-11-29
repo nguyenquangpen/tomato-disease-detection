@@ -1,0 +1,69 @@
+Tomato_Bacterial_spot
+Description: Bacterial spot disease caused by Xanthomonas bacteria, appearing as dark spots on leaves, reducing photosynthetic ability.
+Solution:
+-Use disease-resistant varieties.
+-Apply copper-based fungicides.
+-Avoid overhead watering to minimize spread.
+
+Tomato_Early_blight
+Description: Early blight caused by the fungus Alternaria solani, forming concentric ring spots on leaves and causing early leaf drop.
+Solution:
+-Rotate crops, avoid continuous planting of tomatoes in the same soil.
+-Use fungicides containing Mancozeb.
+-Ensure good air circulation around plants.
+
+Tomato_healthy
+Description: Healthy tomato plants, free from diseases.
+Solution:
+-Apply balanced fertilizers to boost resistance.
+-Water appropriately, avoiding excess.
+-Regularly inspect plants to detect diseases early.
+
+Tomato_Late_blight
+Description: Late blight caused by the fungus Phytophthora infestans, leading to rotting of leaves, stems, and fruits.
+Solution:
+-Apply copper-based fungicides or Chlorothalonil.
+-Remove infected leaves to prevent spread.
+-Use disease-resistant varieties.
+
+Tomato_Leaf_Mold
+Description: Leaf mold disease caused by the fungus Passalora fulva, forming yellow or brown mold on the underside of leaves.
+Solution:
+-Improve ventilation in greenhouses or gardens.
+-Apply fungicides containing Chlorothalonil or Difenoconazole.
+-Avoid overhead watering.
+
+Tomato_Septoria_leaf_spot
+Description: Septoria leaf spot caused by the fungus Septoria lycopersici, forming small dark brown spots on leaves.
+Solution:
+-Remove infected leaves.
+-Apply fungicides containing Mancozeb or Copper.
+-Space plants adequately to improve ventilation.
+
+Tomato_Spider_mites_Two_spotted_spider_mite
+Description: Caused by two-spotted spider mites (Tetranychus urticae), leading to yellowing and weakening of leaves.
+Solution:
+-Spray Neem oil to control mites.
+-Use beneficial predators like ladybugs to eliminate mites.
+-Increase humidity to reduce mite development.
+
+Tomato__Target_Spot
+Description: Target spot caused by the fungus Corynespora cassiicola, forming large spots with gray centers.
+Solution:
+-Use fungicides containing Azoxystrobin or Difenoconazole.
+-Improve air circulation around plants.
+-Rotate crops.
+
+Tomato__Tomato_mosaic_virus
+Description: Mosaic disease caused by Tomato Mosaic Virus (TMV), leading to leaf deformation and reduced yield.
+Solution:
+-Use virus-resistant varieties.
+-Regularly disinfect gardening tools.
+-Control insects like thrips, which spread the virus.
+
+Tomato__Tomato_YellowLeaf__Curl_Virus
+Description: Yellow leaf curl disease caused by Tomato Yellow Leaf Curl Virus (TYLCV), causing leaf curling, yellowing, and stunted growth.
+Solution:
+-Use virus-resistant varieties.
+-Prevent whiteflies (disease vectors) with protective netting.
+-Spray Neem oil to control insects.
