@@ -1,3 +1,7 @@
+"""
+@author: Quang Nguyen <nguyenquangpen@gmail.com>
+"""
+
 import os
 from PIL import Image, UnidentifiedImageError
 from torchvision.transforms import Compose, Resize, ToTensor

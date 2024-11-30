@@ -1,3 +1,7 @@
+"""
+@author: Quang Nguyen <nguyenquangpen@gmail.com>
+"""
+
 import os
 import torch
 from torchvision.transforms import ColorJitter, RandomAffine, Compose, Resize, ToTensor

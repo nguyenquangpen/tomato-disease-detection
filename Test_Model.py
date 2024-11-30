@@ -1,3 +1,7 @@
+"""
+@author: Quang Nguyen <nguyenquangpen@gmail.com>
+"""
+
 import torch
 import torch.nn as nn
 from MyModel import Model
