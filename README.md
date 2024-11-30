@@ -54,6 +54,6 @@ The training/testing accuracy/loss curve for each experiment of the dataset with
 
 - result
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=CClI0O1bD9o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Video Demo](https://img.youtube.com/vi/CClI0O1bD9o/0.jpg)](https://youtu.be/CClI0O1bD9o)
 
 
